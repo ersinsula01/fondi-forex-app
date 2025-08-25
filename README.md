@@ -48,7 +48,7 @@ Clone the Repository:
 
 Bash
 
-git clone https://github.com/EMRI_YT/fondi-forex-app.git
+git clone https://github.com/ersinsula01/fondi-forex-app.git
 
 cd fondi-forex-app
 Create and Activate the Virtual Environment:
@@ -99,3 +99,4 @@ POST /api/registrohu/ Creates a new user. No
 GET /api/fondet/ Lists all public funds. No
 GET /api/investimet-e-mia/ Lists the user's personal investments. Yes
 POST /api/invest/ Creates a new investment transaction. Yes
+
